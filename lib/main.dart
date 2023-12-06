@@ -64,7 +64,7 @@ class Productdetails extends StatelessWidget {
           ],
         ),
       ),
-    );
+    backgroundColor: Colors.yellowAccent,);
   }
 }
 
